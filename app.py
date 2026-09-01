@@ -5,7 +5,9 @@ import pandas as __pd
 import requests
 import streamlit as st
 
-st.set_page_title("Tennis Total Games Model - Dabble Hammer")
+st.set_page_config(
+    page_title="Tennis Total Games Model - Dabble Hammer", layout="wide"
+)
 st.title("🎾 Dabble Tennis Total Games Model (SofaScore Integration)")
 
 # SofaScore API Headers
