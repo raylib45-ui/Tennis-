@@ -1,1 +1,0 @@
-Rick0.5 hIts chamber 
